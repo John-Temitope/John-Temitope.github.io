@@ -36,6 +36,9 @@ Data-driven professional with a passion for uncovering insights from data to sol
 *Federal University of Technology*  
 *2015 - 2019*
 
+
+
+
 ### Diploma in Chemical Engineering
 *Federal Polytechnic Mubi*
 *2011 - 2014*
