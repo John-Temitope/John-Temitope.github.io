@@ -11,7 +11,8 @@ Data-driven professional with a passion for uncovering insights from data to sol
 
 ## Work Experience
 
-### MIS Analyst, MacTay Consulting (Contracted to MoMo PSB/MTN Nigeria)
+### MIS Analyst 
+#### MacTay Consulting (Contracted to MoMo PSB/MTN Nigeria)
 *February 2024 - Present*
 
 - Assisted in cleaning and analyzing large datasets for business insights
@@ -19,7 +20,8 @@ Data-driven professional with a passion for uncovering insights from data to sol
 - Provided actionable recommendations to improve call center operations
 - Perfomed HR analytics and identified workforce trends to support HR decisions
 
-### Call Center Representative | Team Lead, MacTay Consulting (Contracted to MoMo PSB/MTN Nigeria)
+### Call Center Representative 
+#### Team Lead, MacTay Consulting (Contracted to MoMo PSB/MTN Nigeria)
 *February 2021 - February 2024*
 
 - Analysed call volumes and customer feedbacks for business and management decisions
