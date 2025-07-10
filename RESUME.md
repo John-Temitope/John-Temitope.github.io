@@ -1,10 +1,10 @@
 # Adeniran John Temitope
 Data Analyst | Python Developer *(in view)*
 
-[johntemitope.adeniran@gmail.com](mailto:johntemitope.adeniran@gmail.com)
-| [+234 810 897 3006](tel:+2348108973006)
-| [medium.com/john_temitope](https://medium.com/@adeniranjohnt2007_19297)
-| [linkedin.com/in/adeniran-john-temitope/](https://www.linkedin.com/in/adeniran-john-temitope/)
+[email](mailto:johntemitope.adeniran@gmail.com)
+| [+2348108973006](tel:+2348108973006)
+| [medium](https://medium.com/@adeniranjohnt2007_19297)
+| [linkedin](https://www.linkedin.com/in/adeniran-john-temitope/)
 
 ## About me
 Data-driven professional with a passion for uncovering insights from data to solve real-world business problems. Skilled in Python, SQL, and Power BI, with a strong background in Chemical Engineering. What I do outside work is enjoy the serene environment and explore nature.
